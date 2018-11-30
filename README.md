@@ -25,4 +25,4 @@ El mercado de productos y servicios para mascotas se encuentra en pleno crecimie
 
 Hacer un análisis del journey de los clientes de Petco que sean potenciales usuarios de Kmimos para generar una estrategia de conversión dentro de la tienda que los lleve a contratar los servicios de Kmimos a través de la página web.
 
-![Documentación](imagenes/website.png)
+![Documentación](https://github.com/ReikaMoss/cdmx_2018_01_ux_kmimos/blob/master/imagenes/website.PNG?raw=true)

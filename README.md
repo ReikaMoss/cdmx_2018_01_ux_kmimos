@@ -28,3 +28,7 @@ Hacer un análisis del journey de los clientes de Petco que sean potenciales usu
 ![Documentación](https://github.com/ReikaMoss/cdmx_2018_01_ux_kmimos/blob/master/imagenes/website.PNG?raw=true)
 
 ![kmimos](https://github.com/ReikaMoss/cdmx_2018_01_ux_kmimos/blob/master/imagenes/kmimos.jpg?raw=true)
+
+Proceso de documentación:
+
+https://sites.google.com/view/proyectokmimos/p%C3%A1gina-principal

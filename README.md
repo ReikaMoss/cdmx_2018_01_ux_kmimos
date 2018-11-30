@@ -16,7 +16,7 @@ Kmimos ha tenido un vertiginoso éxito desde su inicio. Recientemente cerraron u
 
 Petco es la empresa de productos y servicios para mascotas líder en Estados Unidos. Desde el 2013, Petco ha tenido participación en el mercado mexicano de la mano de Grupo Gigante. De modo que, aunque la empresa es de origen extranjero, la mitad de los proveedores son nacionales. Su modelo de negocio incluye todas las categorías de productos y servicios, desde veterinarios y cuidados hasta accesorios y alimentos. En la actualidad, Petco cuenta con 59 sucursales en el país y en 2018 esperan sumar 11 nuevas tiendas para concluir el año con un total de 70 sucursales, de las cuales 20 unidades corresponderán al formato express y el resto serían tradicionales.
 
-El mercado de productos y servicios para mascotas se encuentra en pleno crecimiento en nuestro país. De acuerdo con el Instituto Nacional de Estadística y Geografía (Inegi), México ocupa el segundo lugar mundial en cuanto al número de mascotas, gracias a que siete de cada 10 hogares cuentan con una. Según datos de Euromonitor, el mercado del cuidado animal en México pasó de mil 240 millones de dólares en 2012 a mil 988 millones de dólares en 2017; para 2022 se estima que llegue a 2 mil 735 millones, es decir, se espera un crecimiento de 37.6 por ciento. 
+El mercado de productos y servicios para mascotas se encuentra en pleno crecimiento en nuestro país. De acuerdo con el Instituto Nacional de Estadística y Geografía (Inegi), México ocupa el segundo lugar mundial en cuanto al número de mascotas, gracias a que siete de cada 10 hogares cuentan con una. Según datos de Euromonitor, el mercado del cuidado animal en México pasó de mil 240 millones de dólares en 2012 a mil 988 millones de dólares en 2017; para 2022 se estima que llegue a 2 mil 735 millones, es decir, se espera un crecimiento de 37.6 por ciento.
 
 
 ## El Reto
@@ -25,13 +25,4 @@ El mercado de productos y servicios para mascotas se encuentra en pleno crecimie
 
 Hacer un análisis del journey de los clientes de Petco que sean potenciales usuarios de Kmimos para generar una estrategia de conversión dentro de la tienda que los lleve a contratar los servicios de Kmimos a través de la página web.
 
-
-
-
-
-
-
-
-
-
-
+![Documentación](imagenes/website.png)
